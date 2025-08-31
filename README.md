@@ -1,16 +1,16 @@
 # Hey there👋, Welcome to my Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hi!+I'm+Hoang+Van+Tan+Dat;Student+at+University+of+Science+and+Technology+-+UDN;Fullstack+Developer+in+progress;Love+Coding+%26+Learning;Open+Source+Contributor"/>
- 
-<p>- 🎓 I'm **Hoang Van Tan Dat**, a Computer Science student at the **University of Science and Technology – The University of Danang**.  
-Passionate about coding, always eager to learn new technologies, and actively building projects in web and library development. 🚀</p>
+
+- 🎓 I'm **Hoang Van Tan Dat**, a Computer Science student at the **University of Science and Technology – The University of Danang**.  
+Passionate about coding, always eager to learn new technologies, and actively building projects in web and library development. 🚀
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 - 🔧 Currently working on **BEESOCIAL** – A social network using TypeScript, Next.js, Express.  
 - 💡 Curious about Cloud, AI, and new web technologies.  
-- 📖 Currently learning **React, Node.js, and Java**.  
+- 📖 Currently learning **React, Node.js, and C#**.  
 - ❄️ Looking to collaborate on Open Source Projects.  
 - 📫 Reach me at: **victomblack1602@gmail.com**  
 
@@ -18,11 +18,17 @@ Passionate about coding, always eager to learn new technologies, and actively bu
 
 ## 📌 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dattt-cy&repo=BEESOCIAL&theme=radical)](https://github.com/dattt-cy/BEESOCIAL)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dattt-cy&repo=BEESOCIAL&theme=radical&cache_seconds=0)](https://github.com/dattt-cy/BEESOCIAL)  
+**BEESOCIAL** – Social network platform for connecting, sharing, and interacting.  
+🔧 Tech: TypeScript, Next.js, Express  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dattt-cy&repo=PBL3&theme=radical)](https://github.com/dattt-cy/PBL3)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dattt-cy&repo=PBL3&theme=radical&cache_seconds=0)](https://github.com/dattt-cy/PBL3)  
+**PBL3** – Java Swing app for managing schedules, notes, and reminders.  
+🔧 Tech: Java Swing  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dattt-cy&repo=modalit&theme=radical)](https://github.com/dattt-cy/modalit)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dattt-cy&repo=modalit&theme=radical&cache_seconds=0)](https://github.com/dattt-cy/modalit)  
+**Modalit** – Lightweight modal library built with pure JavaScript.  
+🔧 Tech: JavaScript, HTML  
 
 ---
 
